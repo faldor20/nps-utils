@@ -1,6 +1,6 @@
 {
   "name": "nps-utils",
-  "version": "0.0.0-semantically-released",
+  "version": "2.0.0",
   "description": "Utilities for nps (npm-package-scripts)",
   "main": "dist/index.js",
   "scripts": {
