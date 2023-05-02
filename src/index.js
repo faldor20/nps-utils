@@ -311,7 +311,7 @@ function mkdirp(args) {
  * @return {string} - the command with the opn-cli binary
  */
 function open(args) {
-  return `${runBin('opn-cli', 'opn')} ${args}`
+  return `${runBin('open-cli')} ${args}`
 }
 
 /**
